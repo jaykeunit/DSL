@@ -1,0 +1,7 @@
+
+create pizza and {
+    spread sauce
+    spread cheese
+    toppings pepperoni, sausage, garlic
+	bake
+}

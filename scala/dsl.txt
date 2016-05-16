@@ -1,0 +1,7 @@
+(create Pizza and
+ spread sauce
+ spread cheese
+ add pepperoni
+ add ham
+ add sausage
+ then bake)
